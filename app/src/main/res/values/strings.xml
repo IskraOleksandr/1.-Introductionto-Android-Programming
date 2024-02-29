@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1.-Introductionto Android Programming</string>
+    <string name="textfield">Click the button</string>
+    <string name="btn1">Hello World</string>
+    <string name="btn2">Simple program</string>
+    <string name="btn3">Programming for Android</string>
+</resources>
